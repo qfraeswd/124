@@ -1,0 +1,6 @@
+token=??????
+owner=????
+prefix=.
+game=Type | .play
+stayinchannel=true
+songinstatus=false
